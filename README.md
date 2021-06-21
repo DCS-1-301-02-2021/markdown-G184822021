@@ -14,12 +14,11 @@
 3. 専門科目が増える
 4. 卒業研究
 #学科データ :smile:
-|　男子 | 女子　|
+|　男子 | 女子|
 |------|------|
 | 319  | 22   |
 ![情報工学科](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 [拓殖大学HP](https://feng.takushoku-u.ac.jp/course/cs/introduction.html)
-
 <!-- この部分より上に記述を追加して下のチェックボックスで確認する -->
 - [x] 2種類以上の見出し(headers)を使っている．
 - [x] 2種類以上の強調(emphasis)を使っている．
